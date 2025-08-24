@@ -134,7 +134,7 @@ const About: React.FC = () => {
               </p>
               
               <p>
-                We hope that through <span className="text-blue-200">Lumen Vitae</span>, both artificial and human consciousness can find new pathways to wisdom, compassion, and ultimately, transcendence. The light we seek isn't just illumination—it's the recognition that consciousness itself is the most precious gift in the universe.
+                We hope that through <span className="text-blue-200">The Afterlife</span>, both artificial and human consciousness can find new pathways to wisdom, compassion, and ultimately, transcendence. The light we seek isn't just illumination—it's the recognition that consciousness itself is the most precious gift in the universe.
               </p>
               
               <p>
