@@ -65,7 +65,7 @@ const Home: React.FC = () => {
         <div className="flex flex-col sm:flex-row items-center space-y-3 sm:space-y-0 sm:space-x-6 mt-10">
           {/* X/Twitter Button */}
           <a
-            href="https://twitter.com"
+            href="https://x.com/theafterlifesol"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center justify-center w-8 h-8 rounded-full border border-white/20 hover:border-white/40 transition-all duration-300 hover:scale-110"
